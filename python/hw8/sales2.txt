@@ -1,0 +1,92 @@
+Katie Bell
+139214
+Regulas Black
+235634
+Sirius Black
+56200
+Lavender Brown
+295896
+Cho Chang
+178138
+Vincent Crabbe
+199767
+Barty Crouch
+112349
+Fleur Delacour
+264157
+Cedric Diggory
+192310
+Albus Dumbledore
+364388
+Dudley Dursley
+258427
+Petunia Dursley
+21141
+Vernon Dursley
+261805
+Argus Filch
+26568
+Seamus Finnigan
+332795
+Mundungus Fletcher
+77596
+Cornelius Fudge
+210130
+Marvolo Gaunt
+49645
+Hermione Granger
+49537
+Godric Gryffindor
+17474
+Rubeus Hagrid
+265038
+Helga Hufflepuff
+102614
+Lee Jordan
+304440
+Viktor Krum
+209283
+Bellatrix Lestrange
+159212
+Gilderoy Lockhart
+119747
+Neville Longbottom
+180142
+Luna Lovegood
+199776
+Remus Lupin
+337053
+Draco Malfoy
+29990
+Minerva McGonagall
+98713
+Alastor Moody
+298025
+Garrick Ollivander
+221946
+Parvati Patil
+45255
+Peter Pettigrew
+125640
+Harry Potter
+357073
+Helena Ravenclaw
+145744
+Thomas Riddle
+249710
+Stan Shunpike
+114340
+Horace Slughorn
+96968
+Severus Snape
+311898
+Pomona Sprout
+16587
+Nymphadora Tonks
+213005
+Dolores Umbridge
+146272
+Ron Weasley
+277659
+Jenny Weasley
+74719

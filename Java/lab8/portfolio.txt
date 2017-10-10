@@ -1,0 +1,12 @@
+AMZN 3 218.37 Amazon.Com Inc.
+BBY 5 19.37 Best Buy Co. Inc.
+CSCO 3.5 16.38 Cisco Systems Inc.
+CVS 2.4 46.9 CVS Caremark
+EBAY 2.1 39.13 eBay Inc.
+GIS 1.5 39.13 General Mills Inc.
+GOOG 6.2 571.19 Google Inc.
+INTC 8.2 25.39 Intel
+MCD 3.1 89.53 McDonalds Corp
+MRK 5.6 41.21 Merck & Co. Inc.
+WAG 6.3 29.94 Walgreen Company
+DIS 6.4 47.27 Walt Disney

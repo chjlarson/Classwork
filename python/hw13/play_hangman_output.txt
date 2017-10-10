@@ -1,0 +1,135 @@
+
+*** Welcome to the Hangman Game ***
+
+This program will allow you to play the classic word guessing
+game of hangman. You will be allowed a maximum of 7 wrong guesses.
+Guessing the same wrong letter twice does not count against you.
+
+
+The current word is: _____
+Choose a letter: e
+  Incorrect letters = E
+
+The current word is: _____
+Choose a letter: t
+
+The current word is: _T___
+Choose a letter: n
+  Incorrect letters = EN
+
+The current word is: _T___
+Choose a letter: a
+
+The current word is: _TA__
+Choose a letter: s
+
+The current word is: STA__
+Choose a letter: n
+  Incorrect letters = EN
+
+The current word is: STA__
+Choose a letter: d
+  Incorrect letters = END
+
+The current word is: STA__
+Choose a letter: p
+  Incorrect letters = ENDP
+
+The current word is: STA__
+Choose a letter: e
+  Incorrect letters = ENDP
+
+The current word is: STA__
+Choose a letter: a
+
+The current word is: STA__
+Choose a letter: r
+  Incorrect letters = ENDPR
+
+The current word is: STA__
+Choose a letter: m
+  Incorrect letters = ENDPRM
+
+The current word is: STA__
+Choose a letter: p
+  Incorrect letters = ENDPRM
+
+The current word is: STA__
+Choose a letter: i
+  Incorrect letters = ENDPRMI
+
+You lost! The correct word was STACK.
+
+
+
+
+*** Welcome to the Hangman Game ***
+
+This program will allow you to play the classic word guessing
+game of hangman. You will be allowed a maximum of 7 wrong guesses.
+Guessing the same wrong letter twice does not count against you.
+
+
+The current word is: ______
+Choose a letter: a
+
+The current word is: _A____
+Choose a letter: r
+
+The current word is: _A___R
+Choose a letter: t
+
+The current word is: _A_T_R
+Choose a letter: s
+
+The current word is: _AST_R
+Choose a letter: e
+
+Congratulations!  You guessed the word EASTER.
+
+
+
+
+
+*** Welcome to the Hangman Game ***
+
+This program will allow you to play the classic word guessing
+game of hangman. You will be allowed a maximum of 7 wrong guesses.
+Guessing the same wrong letter twice does not count against you.
+
+
+The current word is: _______
+Choose a letter: t
+  Incorrect letters = T
+
+The current word is: _______
+Choose a letter: r
+
+The current word is: _R__R__
+Choose a letter: c
+  Incorrect letters = TC
+
+The current word is: _R__R__
+Choose a letter: a
+
+The current word is: _R__RA_
+Choose a letter: n
+  Incorrect letters = TCN
+
+The current word is: _R__RA_
+Choose a letter: o
+
+The current word is: _RO_RA_
+Choose a letter: p
+
+The current word is: PRO_RA_
+Choose a letter: g
+
+The current word is: PROGRA_
+Choose a letter: m
+
+Congratulations!  You guessed the word PROGRAM.
+
+
+
+

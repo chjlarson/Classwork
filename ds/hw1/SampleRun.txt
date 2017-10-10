@@ -1,0 +1,208 @@
+                 ******  Blackjack  *****
+
+This program allows you to play blackjack against the dealer.
+Remember that the goal of the game is to accumulate up to
+21 points without going over or "busting". The dealer must
+"hit" at 16 and "stand" at 17 points.  Good luck!
+
+Hand #1
+
+You have:
+Three of Spades
+Seven of Hearts
+Score = 10
+
+Would you like to hit? (Y/N) Yes
+
+You have:
+Three of Spades
+Seven of Hearts
+King of Hearts
+Score = 20
+
+Would you like to hit? (Y/N) n
+
+The dealer has:
+Two of Clubs
+Nine of Hearts
+Two of Spades
+Nine of Spades
+Score = 22     ---  BUSTED  ---
+
+You won.
+
+Want another hand? (Y/N) y
+
+Hand #2
+
+You have:
+Ace of Clubs
+Nine of Diamonds
+Score = 20
+
+Would you like to hit? (Y/N) n
+
+The dealer has:
+Four of Hearts
+Seven of Spades
+Ace of Diamonds
+Ace of Hearts
+Nine of Spades
+Score = 22     ---  BUSTED  ---
+
+You won.
+
+Want another hand? (Y/N) y
+
+Hand #3
+
+You have:
+Jack of Spades
+King of Hearts
+Score = 20
+
+Would you like to hit? (Y/N) n
+
+The dealer has:
+Seven of Diamonds
+Nine of Clubs
+King of Spades
+Score = 26     ---  BUSTED  ---
+
+You won.
+
+Want another hand? (Y/N) y
+
+Hand #4
+
+You have:
+Two of Hearts
+Two of Clubs
+Score = 4
+
+Would you like to hit? (Y/N) y
+
+You have:
+Two of Hearts
+Two of Clubs
+Eight of Clubs
+Score = 12
+
+Would you like to hit? (Y/N) y
+
+You have:
+Two of Hearts
+Two of Clubs
+Eight of Clubs
+Two of Diamonds
+Score = 14
+
+Would you like to hit? (Y/N) y
+
+You have:
+Two of Hearts
+Two of Clubs
+Eight of Clubs
+Two of Diamonds
+Six of Clubs
+Score = 20
+
+Would you like to hit? (Y/N) n
+
+The dealer has:
+Jack of Spades
+Six of Hearts
+Nine of Spades
+Score = 25     ---  BUSTED  ---
+
+You won.
+
+Want another hand? (Y/N) y
+
+Hand #5
+
+You have:
+Nine of Hearts
+Ace of Spades
+Score = 20
+
+Would you like to hit? (Y/N) n
+
+The dealer has:
+Ten of Clubs
+Jack of Clubs
+Score = 20
+
+We tied.
+
+Want another hand? (Y/N) y
+
+Hand #6
+
+You have:
+Six of Hearts
+Nine of Hearts
+Score = 15
+
+Would you like to hit? (Y/N) n
+
+The dealer has:
+Ten of Clubs
+Seven of Clubs
+Score = 17
+
+I won!
+
+Want another hand? (Y/N) y
+
+Hand #7
+
+You have:
+Five of Diamonds
+Nine of Diamonds
+Score = 14
+
+Would you like to hit? (Y/N) y
+
+You have:
+Five of Diamonds
+Nine of Diamonds
+Ace of Hearts
+Score = 15
+
+Would you like to hit? (Y/N) n
+
+The dealer has:
+Eight of Spades
+Nine of Hearts
+Score = 17
+
+I won!
+
+Want another hand? (Y/N) y
+
+Hand #8
+
+You have:
+Six of Hearts
+Ace of Spades
+Score = 17
+
+Would you like to hit? (Y/N) n
+
+The dealer has:
+Four of Hearts
+Queen of Hearts
+Seven of Hearts
+Score = 21
+
+I won!
+
+Want another hand? (Y/N) n
+
+Number of hands:   8
+Player statistics: Wins = 4, Losses = 3, Ties = 1
+Dealer statistics: Wins = 3, Losses = 4, Ties = 1
+
+Thanks for playing blackjack!
+

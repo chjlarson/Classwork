@@ -1,0 +1,181 @@
+This program plays a dice game involving two players who take turns.
+On each turn, the player rolls the die (adding each value to his turn total)
+until a 1 is rolled, ending the player's turn. The 1 is not included
+in the total for the turn. The winner is the player with the highest score
+after 10 turns.
+
+Player 1 is rolling...
+Rolled a 4
+Rolled a 5
+Rolled a 2
+Rolled a 6
+Rolled a 5
+Rolled a 2
+Rolled a 6
+Rolled a 2
+Rolled a 6
+Rolled a 4
+Rolled a 3
+Rolled a 3
+Rolled a 4
+Rolled a 4
+Rolled a 5
+Rolled a 1 so Player 1's turn is over.
+Turn total: 61  Current Score: 61
+
+Player 2 is rolling...
+Rolled a 2
+Rolled a 4
+Rolled a 4
+Rolled a 4
+Rolled a 3
+Rolled a 4
+Rolled a 3
+Rolled a 4
+Rolled a 4
+Rolled a 1 so Player 2's turn is over.
+Turn total: 32  Current Score: 32
+
+Player 1 is rolling...
+Rolled a 3
+Rolled a 2
+Rolled a 1 so Player 1's turn is over.
+Turn total: 5  Current Score: 66
+
+Player 2 is rolling...
+Rolled a 4
+Rolled a 6
+Rolled a 3
+Rolled a 2
+Rolled a 1 so Player 2's turn is over.
+Turn total: 15  Current Score: 47
+
+Player 1 is rolling...
+Rolled a 2
+Rolled a 2
+Rolled a 6
+Rolled a 3
+Rolled a 1 so Player 1's turn is over.
+Turn total: 13  Current Score: 79
+
+Player 2 is rolling...
+Rolled a 1 so Player 2's turn is over.
+Turn total: 0  Current Score: 47
+
+Player 1 is rolling...
+Rolled a 2
+Rolled a 5
+Rolled a 5
+Rolled a 3
+Rolled a 1 so Player 1's turn is over.
+Turn total: 15  Current Score: 94
+
+Player 2 is rolling...
+Rolled a 3
+Rolled a 6
+Rolled a 2
+Rolled a 3
+Rolled a 2
+Rolled a 5
+Rolled a 4
+Rolled a 3
+Rolled a 4
+Rolled a 6
+Rolled a 4
+Rolled a 1 so Player 2's turn is over.
+Turn total: 42  Current Score: 89
+
+Player 1 is rolling...
+Rolled a 4
+Rolled a 4
+Rolled a 4
+Rolled a 2
+Rolled a 6
+Rolled a 1 so Player 1's turn is over.
+Turn total: 20  Current Score: 114
+
+Player 2 is rolling...
+Rolled a 4
+Rolled a 5
+Rolled a 3
+Rolled a 2
+Rolled a 2
+Rolled a 1 so Player 2's turn is over.
+Turn total: 16  Current Score: 105
+
+Player 1 is rolling...
+Rolled a 5
+Rolled a 4
+Rolled a 6
+Rolled a 4
+Rolled a 4
+Rolled a 1 so Player 1's turn is over.
+Turn total: 23  Current Score: 137
+
+Player 2 is rolling...
+Rolled a 6
+Rolled a 6
+Rolled a 3
+Rolled a 4
+Rolled a 6
+Rolled a 6
+Rolled a 2
+Rolled a 1 so Player 2's turn is over.
+Turn total: 33  Current Score: 138
+
+Player 1 is rolling...
+Rolled a 6
+Rolled a 1 so Player 1's turn is over.
+Turn total: 6  Current Score: 143
+
+Player 2 is rolling...
+Rolled a 1 so Player 2's turn is over.
+Turn total: 0  Current Score: 138
+
+Player 1 is rolling...
+Rolled a 5
+Rolled a 5
+Rolled a 4
+Rolled a 1 so Player 1's turn is over.
+Turn total: 14  Current Score: 157
+
+Player 2 is rolling...
+Rolled a 4
+Rolled a 4
+Rolled a 4
+Rolled a 5
+Rolled a 3
+Rolled a 5
+Rolled a 2
+Rolled a 3
+Rolled a 6
+Rolled a 1 so Player 2's turn is over.
+Turn total: 36  Current Score: 174
+
+Player 1 is rolling...
+Rolled a 6
+Rolled a 6
+Rolled a 6
+Rolled a 5
+Rolled a 1 so Player 1's turn is over.
+Turn total: 23  Current Score: 180
+
+Player 2 is rolling...
+Rolled a 6
+Rolled a 1 so Player 2's turn is over.
+Turn total: 6  Current Score: 180
+
+Player 1 is rolling...
+Rolled a 1 so Player 1's turn is over.
+Turn total: 0  Current Score: 180
+
+Player 2 is rolling...
+Rolled a 1 so Player 2's turn is over.
+Turn total: 0  Current Score: 180
+
+
+Player 1's final score: 180
+Player 2's final score: 180
+
+Player 1 and Player 2 TIED!
+

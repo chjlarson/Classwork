@@ -1,0 +1,238 @@
+32738376 Afghanistan
+15700 Akrotiri
+3619778 Albania
+33769669 Algeria
+57496 American Samoa
+72413 Andorra
+12531357 Angola
+14108 Anguilla
+69842 Antigua and Barbuda
+40677348 Argentina
+2968586 Armenia
+101541 Aruba
+20600856 Australia
+8205533 Austria
+8177717 Azerbaijan
+307451 The Bahamas
+718306 Bahrain
+153546901 Bangladesh
+281968 Barbados
+9685768 Belarus
+10403951 Belgium
+301270 Belize
+8294941 Benin
+66536 Bermuda
+682321 Bhutan
+9247816 Bolivia
+4590310 Bosnia and Herzegovina
+1842323 Botswana
+191908598 Brazil
+24004 British Virgin Islands
+381371 Brunei
+7262675 Bulgaria
+15264735 Burkina Faso
+47758181 Burma
+8691005 Burundi
+14241640 Cambodia
+18467692 Cameroon
+33212696 Canada
+426998 Cape Verde
+47862 Cayman Islands
+4434873 Central African Republic
+10111337 Chad
+16454143 Chile
+1330044605 China
+1402 Christmas Island
+596 Cocos (Keeling) Islands
+45013674 Colombia
+731775 Comoros
+66514506 Congo, Democratic Republic of the
+3903318 Congo, Republic of the
+21923 Cook Islands
+4195914 Costa Rica
+18373060 Cote d'Ivoire
+4491543 Croatia
+11423952 Cuba
+792604 Cyprus
+10220911 Czech Republic
+5484723 Denmark
+15700 Dhekelia
+506221 Djibouti
+72514 Dominica
+9507133 Dominican Republic
+13927650 Ecuador
+81713517 Egypt
+7066403 El Salvador
+616459 Equatorial Guinea
+5028475 Eritrea
+1307605 Estonia
+78254090 Ethiopia
+491018677 European Union
+3140 Falkland Islands (Islas Malvinas)
+48668 Faroe Islands
+931741 Fiji
+5244749 Finland
+64057790 France
+283019 French Polynesia
+1485832 Gabon
+1735464 The Gambia
+1537269 Gaza Strip
+4630841 Georgia
+82369548 Germany
+23382848 Ghana
+28002 Gibraltar
+10722816 Greece
+56326 Greenland
+90343 Grenada
+175877 Guam
+13002206 Guatemala
+65726 Guernsey
+10211437 Guinea
+1503182 Guinea-Bissau
+770794 Guyana
+8924553 Haiti
+824 Holy See (Vatican City)
+7639327 Honduras
+7018636 Hong Kong
+9930915 Hungary
+304367 Iceland
+1147995898 India
+237512355 Indonesia
+65875223 Iran
+28221181 Iraq
+4156119 Ireland
+76220 Isle of Man
+7112359 Israel
+58145321 Italy
+2804332 Jamaica
+127288419 Japan
+91533 Jersey
+6198677 Jordan
+15340533 Kazakhstan
+37953838 Kenya
+110356 Kiribati
+23479089 Korea, North
+49232844 Korea, South
+2126708 Kosovo
+2596799 Kuwait
+5356869 Kyrgyzstan
+6677534 Laos
+2245423 Latvia
+3971941 Lebanon
+2128180 Lesotho
+3334587 Liberia
+6173579 Libya
+34498 Liechtenstein
+3565205 Lithuania
+486006 Luxembourg
+460823 Macau
+2061315 Macedonia
+20042551 Madagascar
+13931831 Malawi
+25274133 Malaysia
+379174 Maldives
+12324029 Mali
+403532 Malta
+63174 Marshall Islands
+3364940 Mauritania
+1274189 Mauritius
+216306 Mayotte
+109955400 Mexico
+107665 Micronesia, Federated States of
+4324450 Moldova
+32796 Monaco
+2996081 Mongolia
+678177 Montenegro
+9638 Montserrat
+34343219 Morocco
+21284701 Mozambique
+2088669 Namibia
+13770 Nauru
+29519114 Nepal
+16645313 Netherlands
+225369 Netherlands Antilles
+224824 New Caledonia
+4173460 New Zealand
+5785846 Nicaragua
+13272679 Niger
+138283240 Nigeria
+1444 Niue
+2128 Norfolk Island
+86616 Northern Mariana Islands
+4644457 Norway
+3311640 Oman
+167762040 Pakistan
+21093 Palau
+3292693 Panama
+5931769 Papua New Guinea
+6831306 Paraguay
+29180899 Peru
+92681453 Philippines
+48 Pitcairn Islands
+38500696 Poland
+10676910 Portugal
+3958128 Puerto Rico
+928635 Qatar
+22246862 Romania
+140702094 Russia
+10186063 Rwanda
+7601 Saint Helena
+39619 Saint Kitts and Nevis
+172884 Saint Lucia
+29376 Saint Martin
+7044 Saint Pierre and Miquelon
+118432 Saint Vincent and the Grenadines
+217083 Samoa
+29973 San Marino
+206178 Sao Tome and Principe
+28161417 Saudi Arabia
+12853259 Senegal
+10159046 Serbia
+82247 Seychelles
+6294774 Sierra Leone
+4608167 Singapore
+5455407 Slovakia
+2007711 Slovenia
+581318 Solomon Islands
+9558666 Somalia
+43786115 South Africa
+40491051 Spain
+21128773 Sri Lanka
+40218455 Sudan
+475996 Suriname
+2165 Svalbard
+1128814 Swaziland
+9045389 Sweden
+7581520 Switzerland
+19747586 Syria
+22920946 Taiwan
+7211884 Tajikistan
+40213162 Tanzania
+65493298 Thailand
+1108777 Timor-Leste
+5858673 Togo
+1433 Tokelau
+119009 Tonga
+1047366 Trinidad and Tobago
+10383577 Tunisia
+71892807 Turkey
+5179571 Turkmenistan
+22352 Turks and Caicos Islands
+12177 Tuvalu
+31367972 Uganda
+45994287 Ukraine
+4621399 United Arab Emirates
+60943912 United Kingdom
+303824646 United States
+3477778 Uruguay
+28268440 Uzbekistan
+215446 Vanuatu
+26414815 Venezuela
+86116559 Vietnam
+108210 Virgin Islands
+16448 Wallis and Futuna
+2611904 West Bank
+393831 Western Sahara
+23013376 Yemen
+11669534 Zambia
+12382920 Zimbabwe

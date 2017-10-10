@@ -1,0 +1,280 @@
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower (L). If you guess
+correctly, another card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is the Ten of Diamonds.
+Enter your guess (H or L): L
+
+The next card was Five of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was King of Hearts.
+Your prediction was correct.
+
+Enter your next guess (H or L): L
+
+The next card was Three of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): h
+
+The next card was Four of Spades.
+Your prediction was correct.
+
+Enter your next guess (H or L): h
+
+The next card was Four of Clubs.
+
+Sorry, but you lose on ties!
+
+Game over! Your score was 4.
+
+
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower (L). If you guess
+correctly, another card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is the Seven of Clubs.
+Enter your guess (H or L): h
+
+The next card was Eight of Clubs.
+Your prediction was correct.
+
+Enter your next guess (H or L): h
+
+The next card was Five of Clubs.
+
+Your prediction was incorrect.
+
+Game over! Your score was 1.
+
+
+
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower (L). If you guess
+correctly, another card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is the Seven of Hearts.
+Enter your guess (H or L): h
+
+The next card was Ace of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): L
+
+The next card was Jack of Hearts.
+Your prediction was correct.
+
+Enter your next guess (H or L): L
+
+The next card was Four of Hearts.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was Nine of Hearts.
+Your prediction was correct.
+
+Enter your next guess (H or L): L
+
+The next card was Three of Clubs.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was Five of Clubs.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was Nine of Clubs.
+Your prediction was correct.
+
+Enter your next guess (H or L): L
+
+The next card was Seven of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): h
+
+The next card was Six of Diamonds.
+
+Your prediction was incorrect.
+
+Game over! Your score was 8.
+
+
+
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower (L). If you guess
+correctly, another card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is the Four of Clubs.
+Enter your guess (H or L): H
+
+The next card was Four of Hearts.
+
+Sorry, but you lose on ties!
+
+Game over! Your score was 0.
+
+
+
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower (L). If you guess
+correctly, another card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is the King of Clubs.
+Enter your guess (H or L): L
+
+The next card was Two of Clubs.
+Your prediction was correct.
+
+Enter your next guess (H or L): h
+
+The next card was Three of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): h
+
+The next card was Jack of Clubs.
+Your prediction was correct.
+
+Enter your next guess (H or L): l
+
+The next card was Two of Hearts.
+Your prediction was correct.
+
+Enter your next guess (H or L): h
+
+The next card was Ten of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): l
+
+The next card was Eight of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): l
+
+The next card was Ace of Spades.
+
+Your prediction was incorrect.
+
+Game over! Your score was 6.
+
+
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower (L). If you guess
+correctly, another card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is the Jack of Clubs.
+Enter your guess (H or L): l
+
+The next card was King of Clubs.
+
+Your prediction was incorrect.
+
+Game over! Your score was 0.
+
+
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower (L). If you guess
+correctly, another card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is the Ace of Clubs.
+Enter your guess (H or L): l
+
+The next card was Two of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was Two of Hearts.
+
+Sorry, but you lose on ties!
+
+Game over! Your score was 1.
+
+
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower (L). If you guess
+correctly, another card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is the Ace of Clubs.
+Enter your guess (H or L): L
+
+The next card was Four of Hearts.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was Five of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was Ace of Hearts.
+Your prediction was correct.
+
+Enter your next guess (H or L): L
+
+The next card was Two of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was Nine of Hearts.
+Your prediction was correct.
+
+Enter your next guess (H or L): L
+
+The next card was Five of Clubs.
+Your prediction was correct.
+
+Enter your next guess (H or L): H
+
+The next card was Jack of Diamonds.
+Your prediction was correct.
+
+Enter your next guess (H or L): L
+
+The next card was King of Diamonds.
+
+Your prediction was incorrect.
+
+Game over! Your score was 7.
+

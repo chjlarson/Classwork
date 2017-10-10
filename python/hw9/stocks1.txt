@@ -1,0 +1,120 @@
+MMM 87.8 3M Co.
+ABT 65.18 Abbott Laboratories
+ACE 70.28 ACE Ltd.
+MO 35.32 Altria Group Inc.
+AMZN 218.37 Amazon.Com Inc.
+ACC 44.1 American Campus Communities
+AGNC 34.27 American Capital Agency Corp.
+AXP 58.08 American Express Co.
+AGP 89.69 AMERIGROUP Corp.
+AMGN 76.09 Amgen Inc.
+AMLN 30.76 Amylin Pharmaceuticals Inc.
+APC 66.58 Anadarko Petroleum Corp.
+APA 84.2 Apache Corp.
+AAPL 604.43 Apple Inc.
+ARNA 11.13 Arena Pharmaceuticals Inc.
+T 35.26 AT&T
+BIDU 108.92 Baidu.com SP ADR
+BAC 7.63 Bank of America Corp.
+ABX 34.95 Barrick Gold Corp.
+BRK-B 84.09 Berkshire Hathaway B
+BBY 19.37 Best Buy Co. Inc.
+BA 71.52 Boeing Co.
+BMY 34.59 Bristol-Myers Squibb Co.
+CAT 79.74 Caterpillar Inc.
+CTL 39.92 CenturyLink
+CF 194.69 CF Industries Holdings
+CHK 19.08 Chesapeake Energy Corp.
+CVX 104.85 Chevron
+CSCO 16.38 Cisco Systems Inc.
+C 25.87 Citigroup Inc.
+COH 55.84 Coach Inc.
+KO 77.46 Coca-Cola Co.
+CMCSA 31.73 Comcast Class A
+COP 54.36 ConocoPhillips
+CSX 22.25 CSX Corp.
+CMI 83.53 Cummins Inc.
+CVS 46.9 CVS Caremark
+CYS 13.83 CYS Investments
+DE 78.16 Deere & Company
+DTV 48.15 DIRECTV-A
+DOW 30.29 Dow Chemical Co.
+DUK 66.48 Duke Energy Corp.
+DD 47.14 E.I. DuPont de Nemours & Co.
+ETN 37.04 Eaton Corp.
+EBAY 39.13 eBay Inc.
+EMC 23.55 EMC Corp.
+EOG 91.88 EOG Resources Inc.
+EL 50.6 Estee Lauder Cos. Inc.
+ESRX 56.17 EXPRESS SCRPTS HLDG
+XOM 84.3 Exxon Mobil
+FB 30.97 FACEBOOK-A
+F 9.33 Ford Motor Co.
+FCX 32.36 Freeport-McMoRan Copper & Gold
+GE 19.68 General Electric
+GIS 39.13 General Mills Inc.
+GILD 50.67 Gilead Sciences Inc.
+GG 33.17 Goldcorp Inc.
+GS 95.13 Goldman Sachs Group Inc.
+GOOG 571.19 Google Inc.
+HAL 28.53 Halliburton Co.
+HPQ 19.69 Hewlett-Packard Company
+HD 51.67 Home Depot Inc.
+INTC 25.39 Intel
+IBM 185.25 International Business Machines Corp.
+ITUB 13.81 Itau Unibanco Holding S.A. ADS
+JNJ 67.9 Johnson & Johnson
+JPM 34.59 JPMorgan Chase & Co.
+KFT 39.37 KRAFT FOODS-A
+LVS 41 Las Vegas Sands
+LNCR 41.49 Lincare Holdings Inc.
+LOW 26.67 Lowes Cos.
+M 33.15 Macys
+MAR 38.03 Marriott International Inc. Cl A
+MA 419.89 MasterCard Cl A
+MCD 89.53 McDonalds Corp
+MJN 78.28 Mead Johnson Nutrition Co.
+MRK 41.21 Merck & Co. Inc.
+MSFT 29.3 Microsoft Corp
+MON 82.77 Monsanto Company
+MS 13.81 Morgan Stanley
+MOS 55.47 Mosaic Company
+NOV 66.88 National-Oilwell Inc.
+NFLX 81.64 NetFlix Inc.
+NEM 45.98 Newmont Mining Corp.
+NWSA 21.69 News Corporation - Class A Shares
+NKE 92.26 Nike Inc. Cl B
+OXY 84.57 Occidental Petroleum Corp.
+ORCL 29.23 Oracle Corp
+BTU 22.24 Peabody Energy Corp.
+PEP 70.13 PepsiCo Inc.
+PBR 18.71 Petrobras - Petroleo Brasileiro S.A.
+PFE 22.34 Pfizer Inc.
+PM 90.54 Philip Morris International Inc.
+POT 44.44 Potash Corporation of Saskatchewan
+PCLN 646.66 Priceline.com Inc.
+PG 61.4 Procter & Gamble Co.
+QCOM 54.37 Qualcomm Inc.
+QCOR 44.12 Questcor Pharmacueticals Inc.
+RL 138.78 Ralph Lauren Corp
+SLB 65.66 Schlumberger Ltd.
+TSM 13.15 Taiwan Semiconductor Manufacturing Co. Ltd. ADS
+TGT 59.79 Target Corp.
+TWX 38.1 Time Warner Inc.
+USB 32.28 U.S. Bancorp
+UNP 116.52 Union Pacific Corp.
+UPS 78.88 United Parcel Service Inc. Cl B
+UTX 72.51 United Technologies Corp.
+UNH 56.04 UnitedHealth Group Inc.
+PAY 35.41 VeriFone Systems
+VZ 44.9 Verizon Communications Inc.
+V 120.74 Visa
+VOD 28.59 Vodafone Group PLC
+WAG 29.94 Walgreen Company
+WMT 72.26 Wal-Mart Stores
+DIS 47.27 Walt Disney
+WM 31.59 Waste Management Inc.
+WLP 61.78 WellPoint Inc.
+WFC 33.27 Wells Fargo & Co.
+YHOO 15.8 Yahoo Inc.
+YUM 61.95 Yum! Brands Inc.

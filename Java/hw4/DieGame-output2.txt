@@ -1,0 +1,228 @@
+This program plays a dice game involving two players who take turns.
+On each turn, the player rolls the die (adding each value to his turn total)
+until a 1 is rolled, ending the player's turn. The 1 is not included
+in the total for the turn. The winner is the player with the highest score
+after 10 turns.
+
+Player 1 is rolling...
+Rolled a 3
+Rolled a 3
+Rolled a 3
+Rolled a 5
+Rolled a 1 so Player 1's turn is over.
+Turn total: 14  Current Score: 14
+
+Player 2 is rolling...
+Rolled a 6
+Rolled a 2
+Rolled a 3
+Rolled a 6
+Rolled a 6
+Rolled a 5
+Rolled a 4
+Rolled a 2
+Rolled a 2
+Rolled a 3
+Rolled a 5
+Rolled a 4
+Rolled a 5
+Rolled a 5
+Rolled a 2
+Rolled a 3
+Rolled a 5
+Rolled a 4
+Rolled a 4
+Rolled a 3
+Rolled a 4
+Rolled a 2
+Rolled a 1 so Player 2's turn is over.
+Turn total: 85  Current Score: 85
+
+Player 1 is rolling...
+Rolled a 3
+Rolled a 6
+Rolled a 3
+Rolled a 5
+Rolled a 2
+Rolled a 3
+Rolled a 4
+Rolled a 4
+Rolled a 3
+Rolled a 5
+Rolled a 3
+Rolled a 3
+Rolled a 6
+Rolled a 1 so Player 1's turn is over.
+Turn total: 50  Current Score: 64
+
+Player 2 is rolling...
+Rolled a 6
+Rolled a 6
+Rolled a 4
+Rolled a 4
+Rolled a 3
+Rolled a 4
+Rolled a 6
+Rolled a 5
+Rolled a 3
+Rolled a 2
+Rolled a 6
+Rolled a 1 so Player 2's turn is over.
+Turn total: 49  Current Score: 134
+
+Player 1 is rolling...
+Rolled a 4
+Rolled a 4
+Rolled a 1 so Player 1's turn is over.
+Turn total: 8  Current Score: 72
+
+Player 2 is rolling...
+Rolled a 1 so Player 2's turn is over.
+Turn total: 0  Current Score: 134
+
+Player 1 is rolling...
+Rolled a 4
+Rolled a 3
+Rolled a 2
+Rolled a 4
+Rolled a 5
+Rolled a 1 so Player 1's turn is over.
+Turn total: 18  Current Score: 90
+
+Player 2 is rolling...
+Rolled a 4
+Rolled a 6
+Rolled a 5
+Rolled a 2
+Rolled a 5
+Rolled a 5
+Rolled a 6
+Rolled a 2
+Rolled a 1 so Player 2's turn is over.
+Turn total: 35  Current Score: 169
+
+Player 1 is rolling...
+Rolled a 5
+Rolled a 2
+Rolled a 4
+Rolled a 4
+Rolled a 5
+Rolled a 6
+Rolled a 2
+Rolled a 3
+Rolled a 2
+Rolled a 5
+Rolled a 1 so Player 1's turn is over.
+Turn total: 38  Current Score: 128
+
+Player 2 is rolling...
+Rolled a 4
+Rolled a 6
+Rolled a 4
+Rolled a 6
+Rolled a 5
+Rolled a 6
+Rolled a 6
+Rolled a 1 so Player 2's turn is over.
+Turn total: 37  Current Score: 206
+
+Player 1 is rolling...
+Rolled a 3
+Rolled a 1 so Player 1's turn is over.
+Turn total: 3  Current Score: 131
+
+Player 2 is rolling...
+Rolled a 4
+Rolled a 6
+Rolled a 3
+Rolled a 6
+Rolled a 3
+Rolled a 4
+Rolled a 1 so Player 2's turn is over.
+Turn total: 26  Current Score: 232
+
+Player 1 is rolling...
+Rolled a 2
+Rolled a 1 so Player 1's turn is over.
+Turn total: 2  Current Score: 133
+
+Player 2 is rolling...
+Rolled a 3
+Rolled a 2
+Rolled a 5
+Rolled a 1 so Player 2's turn is over.
+Turn total: 10  Current Score: 242
+
+Player 1 is rolling...
+Rolled a 2
+Rolled a 4
+Rolled a 3
+Rolled a 5
+Rolled a 5
+Rolled a 6
+Rolled a 2
+Rolled a 3
+Rolled a 4
+Rolled a 3
+Rolled a 5
+Rolled a 5
+Rolled a 5
+Rolled a 6
+Rolled a 4
+Rolled a 6
+Rolled a 5
+Rolled a 4
+Rolled a 6
+Rolled a 2
+Rolled a 3
+Rolled a 5
+Rolled a 5
+Rolled a 5
+Rolled a 2
+Rolled a 1 so Player 1's turn is over.
+Turn total: 105  Current Score: 238
+
+Player 2 is rolling...
+Rolled a 5
+Rolled a 2
+Rolled a 2
+Rolled a 5
+Rolled a 3
+Rolled a 1 so Player 2's turn is over.
+Turn total: 17  Current Score: 259
+
+Player 1 is rolling...
+Rolled a 5
+Rolled a 3
+Rolled a 3
+Rolled a 2
+Rolled a 2
+Rolled a 5
+Rolled a 5
+Rolled a 3
+Rolled a 4
+Rolled a 1 so Player 1's turn is over.
+Turn total: 32  Current Score: 270
+
+Player 2 is rolling...
+Rolled a 3
+Rolled a 6
+Rolled a 4
+Rolled a 1 so Player 2's turn is over.
+Turn total: 13  Current Score: 272
+
+Player 1 is rolling...
+Rolled a 5
+Rolled a 5
+Rolled a 1 so Player 1's turn is over.
+Turn total: 10  Current Score: 280
+
+Player 2 is rolling...
+Rolled a 1 so Player 2's turn is over.
+Turn total: 0  Current Score: 272
+
+
+Player 1's final score: 280
+Player 2's final score: 272
+
+*** Player 1 won the game! ***
